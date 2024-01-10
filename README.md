@@ -9,7 +9,7 @@ Necesitan nuestra ayuda para descubrir cuáles de sus clientes están interesado
 
 ## Tecnologías utilizadas 👨🏽‍💻
 
-### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### [Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 Python es uno de los lenguajes de programación por excelencia en el mundo de la ciencia de datos con una amplia comunidad, variedad de librerías y documentaciones.
 
 ### ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
